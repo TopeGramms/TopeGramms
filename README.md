@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topegramms" alt="topegramms" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/topegramms" target="blank"><img src="https://img.shields.io/twitter/follow/htopegramms?logo=twitter&style=for-the-badge" alt="htopegramms" /></a> </p>
+<p align="left"> <a href="https://twitter.com/topegramms" target="blank"><img src="https://img.shields.io/twitter/follow/topegramms?logo=twitter&style=for-the-badge" alt="topegramms" /></a> </p>
 
 - 🌱 I’m currently learning **React,Responsive Design**
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/topegramms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htopegramms" height="30" width="40" /></a>
+<a href="https://twitter.com/topegramms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="topegramms" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/topegramms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/topegramms" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19482327/tope-gramms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19482327/tope-gramms" height="30" width="40" /></a>
 <a href="https://fb.com/hardekhalu.grahams.temitope/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hardekhalu.grahams.temitope/" height="30" width="40" /></a>
