@@ -45,9 +45,9 @@ src="https://img.shields.io/twitter/follow/topegramms?logo=twitter&style=for-the
 
 <a href="https://github.com/Topegramms" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topegramms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b><br>
 
-<a href="http://www.github.com/Topegramms"><img src="https://github-readme-stats.vercel.app/api?username=Topegramms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Topegramms's GitHub stats" /></a>
-
 <div width="100%" align="center"><a href="https://github.com/Topegramms/FIRST-PORTFOLIO" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Topegramms&repo=FIRST-PORTFOLIO&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<a href="http://www.github.com/Topegramms"><img src="https://github-readme-stats.vercel.app/api?username=Topegramms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Topegramms's GitHub stats" /></a>
 
 <a href="http://www.github.com/Topegramms"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Topegramms&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
