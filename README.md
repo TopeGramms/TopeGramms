@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topegramms&label=Profile%20views&color=0e75b6&style=flat" alt="topegramms" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topegramms" alt="topegramms" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topegramms" alt="topegramms" /></a> </p><br>
 
 <p align="left"> <a href="https://twitter.com/topegramms" target="blank"><img src="https://img.shields.io/twitter/follow/topegramms?logo=twitter&style=for-the-badge" alt="topegramms" /></a> </p>
 
@@ -37,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=topegramms&show_icons=true&locale=en&layout=compact" alt="topegramms" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topegramms&show_icons=true&locale=en" alt="topegramms" /></p><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=topegramms&show_icons=true&locale=en" alt="topegramms" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topegramms&" alt="topegramms" /></p><br>
